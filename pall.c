@@ -2,7 +2,7 @@
 /**
  * pall - print all values on stack
  * @stack: pointer to stack
- * @line_number: line number
+ * @line_num: line number
  */
 void pall(stack_t **stack, __attribute__((unused)) unsigned int line_num)
 {
